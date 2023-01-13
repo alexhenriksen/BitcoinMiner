@@ -10,7 +10,6 @@ But be sure to try running the code and see how by given a block number, the pre
 
 The video I used to code this and learn about the most basic stuff in blockchain and bitcoin: https://www.youtube.com/watch?v=ZhnJ1bkIWWk
 
-Follow me on Instagram and Twitter:
+Follow me on Instagram:
 
 IG: @h._.alex
-Twitter: https://twitter.com/_AlexHenriksen
